@@ -69,3 +69,42 @@ img {
 .fa {
   color: white;
 }
+
+/* Extra small devices (portrait phones, less than 576px)*/
+/* No media query for `xs` since this is the default in Bootstrap*/
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 576px) {
+  .container {
+    background-color: rgb(43, 255, 0);
+  }
+
+  img {
+    position: fixed;
+    margin-top: -60px;
+    height: 150px;
+    width: 150px;
+  }
+
+  .col-7 {
+    padding-left: 20px;
+    position: fixed;
+    margin-top: 150px;
+    float: right;
+    font-size: 14px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+  .container {
+    background-color: pink;
+  }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+  .container {
+    background-color: rgb(246, 250, 10);
+  }
+}
