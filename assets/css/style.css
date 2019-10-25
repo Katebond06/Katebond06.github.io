@@ -33,7 +33,7 @@ img {
   padding-top: 20px;
 }
 
-.col-7 {
+.col-8 {
   margin-top: 70px;
   padding-top: 20px;
 }
@@ -58,7 +58,7 @@ img {
 /* Footer */
 .footer {
   text-align: center;
-  color: white;
+  color: rgb(5, 5, 5);
   background: rgb(39, 38, 38);
   position: fixed;
   bottom: 0;
@@ -66,7 +66,7 @@ img {
   height: 2.5rem;
 }
 
-.fa {
+.fab {
   color: white;
 }
 
@@ -86,12 +86,16 @@ img {
     width: 150px;
   }
 
-  .col-7 {
+  .col-8 {
     padding-left: 20px;
-    position: fixed;
     margin-top: 150px;
     float: right;
     font-size: 14px;
+  }
+
+  #logo {
+    text-align: center;
+    float: left;
   }
 }
 
@@ -99,6 +103,17 @@ img {
 @media (min-width: 768px) {
   .container {
     background-color: pink;
+  }
+
+  .img {
+    height: 150px;
+    width: 150px;
+  }
+  .col-8 {
+    padding-left: 50px;
+  }
+  #logo {
+    font-size: 18px;
   }
 }
 
