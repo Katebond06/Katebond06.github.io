@@ -1,5 +1,5 @@
 body {
-  background-color: #c651ca;
+  background-image: url("email.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -24,15 +24,21 @@ html {
 }
 
 .container {
-  color: #c651ca;
+  color: #000000;
   border: 2px solid black;
   border-radius: 5px;
-  background-color: #95dbf0;
+  background-color: #313333;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+
   padding: 20px;
 }
+/*.container:hover {
+  background-color: rgba(250, 242, 242, 0.103);
+}*/
 
 #fas2 {
-  color: rgb(68, 67, 67);
+  color: white;
 }
 
 input[type="text"],
@@ -50,7 +56,7 @@ textarea {
 }
 
 input[type="submit"] {
-  background-color: #313131;
+  background-color: #050404;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -59,7 +65,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  background-color: #829ca8;
+  background-color: #060707;
 }
 
 /* Footer */

@@ -1,5 +1,6 @@
 body {
-  background-color: #ebe26a;
+  /*background-image: url("b1.jpg");*/
+  background-color: #110f0f;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -24,7 +25,10 @@ html {
 }
 
 .jumbotron {
-  background-color: brown;
+  background-image: url("jum.jpg");
+  background-position: center;
+  color: azure;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .img {
