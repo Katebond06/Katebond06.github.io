@@ -67,6 +67,11 @@ header .overlay {
   z-index: 1;
 }
 
+img {
+  width: 300px;
+  height: 300px;
+}
+
 @media (pointer: coarse) and (hover: none) {
   header {
     background: url("https://source.unsplash.com/XT5OInaElMw/1600x900") black
@@ -78,7 +83,6 @@ header .overlay {
 }
 
 #container {
-  border: 1px black solid;
   background-color: rgb(61, 37, 48);
 }
 

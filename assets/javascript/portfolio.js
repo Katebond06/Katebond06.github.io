@@ -1,5 +1,6 @@
 console.log("hello");
 
-window.onload = function() {
-  document.getElementById("audio").play();
-};
+function play() {
+  var audio = document.getElementById("audio");
+  audio.play();
+}

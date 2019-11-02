@@ -1,5 +1,5 @@
 body {
-  background-image: url("email.jpg");
+  background-image: url("email2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -16,21 +16,21 @@ html {
 }
 
 .nav-link:hover {
-  background-color: rgb(112, 107, 107);
+  background-color: #249797;
 }
 
 .navbar-brand:hover {
-  background-color: rgb(112, 107, 107);
+  background-color: #249797;
 }
 
 .container {
-  color: #000000;
-  border: 2px solid black;
+  color: #ffffff;
+  border: 2px solid rgba(0, 0, 0, 0.212);
   border-radius: 5px;
-  background-color: #313333;
-  opacity: 0.6;
-  filter: alpha(opacity=60);
-
+  background-color: #249797;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  position: relative;
   padding: 20px;
 }
 /*.container:hover {

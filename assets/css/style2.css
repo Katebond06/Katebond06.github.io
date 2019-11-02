@@ -31,11 +31,15 @@ html {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.gallery {
+  margin-left: 75px;
+}
+
 .img {
   height: 300px;
   width: 300px;
-  padding: 5px;
   transition: 1s;
+  margin: 1.1%;
 }
 
 .img:hover {
