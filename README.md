@@ -18,3 +18,7 @@ see [Kate Bondaruk](https://katebond06.github.io/)
 4. jQuery;
 5. Bootstrap.
 6. Images from [Google](https://www.google.com/search?rlz=1C1SQJL_enUS866US866&sxsrf=ACYBGNQsUw55iA-ZWe8LSdsC0Vwdh4P6Nw:1571849533487&q=images+high+resolution&tbm=isch&source=univ&sa=X&ved=2ahUKEwjJm9Xo67LlAhVQKawKHQ72D-EQsAR6BAgHEAE&biw=1534&bih=714)
+
+## Main page:
+
+![mp](https://user-images.githubusercontent.com/46870908/68092050-20f34580-fe55-11e9-92ef-9ab1d7b63f2f.png)
