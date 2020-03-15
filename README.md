@@ -21,4 +21,4 @@ see [Kate Bondaruk](https://katebond06.github.io/)
 
 ## Main page:
 
-![mp](https://user-images.githubusercontent.com/46870908/68092050-20f34580-fe55-11e9-92ef-9ab1d7b63f2f.png)
+![Annotation 2020-03-15 132544](https://user-images.githubusercontent.com/46870908/76706791-93f0b080-66c0-11ea-824d-d970f16e64bd.png)
